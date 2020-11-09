@@ -67,16 +67,14 @@
 
 ##### NPM
 <span>
-<img src="https://img.shields.io/badge/npm%20-%23267114.svg?&style=for-the-badge&logo=npm&color=EA2039" alt="verdaccio" />
+<img src="https://img.shields.io/badge/npm%20-%23267114.svg?&style=for-the-badge&logo=npm&color=EA2039" alt="npm" />
 </span>
 <span>
-<img src="https://img.shields.io/badge/yarn%20-%23267114.svg?&style=for-the-badge&logo=yarn&logoColor=white&color=2188b6" alt="verdaccio" />
+<img src="https://img.shields.io/badge/yarn%20-%23267114.svg?&style=for-the-badge&logo=yarn&logoColor=white&color=2188b6" alt="yarn" />
 </span>
 <span>
 <img src="https://img.shields.io/badge/verdaccio%20-%23267114.svg?&style=for-the-badge&color=4b5e40" alt="verdaccio" />
 </span>
-
-
 
 ---
 
