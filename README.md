@@ -2,13 +2,13 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=fanhaoyuan" align="right" alt="Jarvis's github stats" width="50%" >
 
--  👨 name: Fan Haoyuan.
--  👨🏽‍💻 career: front-end developer.
--  📍 location: Guangzhou, Guangdong, China.
--  ✏️ 
+-  👨 Name: Fan Haoyuan.
+-  👨🏽‍💻 Career: front-end developer.
+-  📍 Location: Guangzhou, Guangdong, China.
+-  ✏️ Blog: [Jarvis's blog](https://fanhaoyuan.github.io).
 -  🤔 
 -  🌱
--  📦
+-  📦 
 
 ---
 
@@ -64,6 +64,19 @@
 <span>
 <img src="https://img.shields.io/badge/vscode%20-%232671E5.svg?&style=for-the-badge&color=blue" alt="vscode" />
 </span>
+
+##### NPM
+<span>
+<img src="https://img.shields.io/badge/npm%20-%23267114.svg?&style=for-the-badge&logo=npm&color=EA2039" alt="verdaccio" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/yarn%20-%23267114.svg?&style=for-the-badge&logo=yarn&logoColor=white&color=2188b6" alt="verdaccio" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/verdaccio%20-%23267114.svg?&style=for-the-badge&color=4b5e40" alt="verdaccio" />
+</span>
+
+
 
 ---
 
