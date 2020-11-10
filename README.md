@@ -6,9 +6,9 @@
 -  👨🏽‍💻 Career: front-end developer.
 -  📍 Location: Guangzhou, Guangdong, China.
 -  ✏️ Blog: [Jarvis's blog](https://fanhaoyuan.github.io).
--  🤔 
--  🌱
--  📦 
+-  🤔 Thinking: How can I being better.
+-  🌱 Seeding: Canvas、Animation.
+-  📦 Packing: Canvas Editor.
 
 ---
 
