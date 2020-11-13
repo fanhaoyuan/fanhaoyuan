@@ -10,8 +10,6 @@
 -  🌱 Seeding: Canvas、Animation.
 -  📦 Packing: Canvas Editor.
 
----
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanhaoyuan&card_width=854" alt="Most Used Languages"/>
 
 ---
