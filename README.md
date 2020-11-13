@@ -1,6 +1,6 @@
 ### Hello👋, Jarvis here!
 
- <img src="https://github-readme-stats.vercel.app/api?username=fanhaoyuan" align="right" alt="Jarvis's github stats" width="50%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=fanhaoyuan&show_icons=true&count_private=true&include_all_commits=true" align="right" alt="Jarvis's github stats" width="50%" >
 
 -  👨 Name: Fan Haoyuan.
 -  👨🏽‍💻 Career: front-end developer.
@@ -9,6 +9,10 @@
 -  🤔 Thinking: How can I being better.
 -  🌱 Seeding: Canvas、Animation.
 -  📦 Packing: Canvas Editor.
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanhaoyuan&card_width=854" alt="Most Used Languages"/>
 
 ---
 
