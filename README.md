@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 32 hrs 20 mins  █████████████████████▓░░░   86.97 %
-Markdown                   1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-LESS                       1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Nginx configuration file   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JSON                       37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JavaScript                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript                 31 hrs 48 mins  ██████████████████████▓░░   90.00 %
+Markdown                   1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+LESS                       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Nginx configuration file   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JSON                       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JavaScript                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
