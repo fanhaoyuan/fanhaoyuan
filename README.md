@@ -7,8 +7,8 @@
 -  📍 Location: Guangzhou, Guangdong, China.
 -  ✏️ Blog: [Fansy's blog](https://fanhaoyuan.github.io).
 -  🤔 Thinking: How can I being better.
--  🌱 Seeding: Canvas、Animation.
--  📦 Packing: Canvas Editor.
+-  🌱 Seeding: Streams, HTTP Client.
+-  📦 Packing: [fathcer](https://github.com/fatcherjs/fatcher).
 
 ---
 
