@@ -5,8 +5,6 @@
 -  👨 Name: Fan Haoyuan.
 -  👨🏽‍💻 Career: front-end developer.
 -  📍 Location: Guangzhou, Guangdong, China.
--  ✏️ Blog: [Fansy's blog](https://github.com/fanhaoyuan/fanhaoyuan/tree/main/docs).
--  🤔 Thinking: How can I being better.
 -  🌱 Seeding: Streams, HTTP Client.
 -  📦 Packing: [fathcer](https://github.com/fatcherjs/fatcher).
 
