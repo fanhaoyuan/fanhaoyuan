@@ -1,12 +1,14 @@
 ### Hello👋, Fansy here!
-  
- <img src="https://github-readme-stats.vercel.app/api?username=fanhaoyuan&show_icons=true&count_private=true&include_all_commits=true" align="right" alt="Jarvis's github stats" width="50%" >
-  
+
+ <img src="https://github-readme-stats.vercel.app/api?username=fanhaoyuan&show_icons=true&count_private=true&include_all_commits=true" align="right" alt="Fansy's github stats" width="40%" />
+<br />
+
 -  👨 Name: Fan Haoyuan.
 -  👨🏽‍💻 Career: front-end developer.
 -  📍 Location: Guangzhou, Guangdong, China.
 -  🌱 Seeding: Streams, HTTP Client.
 -  📦 Packing: [fathcer](https://github.com/fatcherjs/fatcher).
+
 
 ---
 
@@ -32,7 +34,6 @@
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="vuejs"/>
   </span>
 
- 
 #### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
