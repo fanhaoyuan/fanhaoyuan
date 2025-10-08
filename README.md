@@ -40,9 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 3 hrs 6 mins    ███████████████████████░░   91.54 %
-JSON                       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-JavaScript                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TypeScript                 3 hrs 6 mins    ███████████████████████▒░   92.77 %
+JSON                       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JavaScript                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 Prisma                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
